@@ -1,93 +1,80 @@
-# 👋 Hi, I'm Isra Naswa Reyka Swahili
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=600&lines=Backend+Focused+Web+Developer;Laravel+12+System+Builder;Building+Structured+Digital+Solutions)
+
+# 👋 Hi, I'm Isra Naswa Reyka Swahili  
+### Full Stack Web Developer • Laravel 12 Specialist  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Structured+Digital+Systems;From+Database+to+User+Interface;Turning+Ideas+into+Reliable+Solutions" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Informatics Engineering Student  
-- 💻 Backend-focused Web Developer  
-- 🔥 Building structured digital systems using Laravel 12  
-- 📊 Strong interest in management systems & secure platforms  
-- 🎯 Future IT Professional contributing to public-sector technology  
+I build complete web systems — from backend logic and database design  
+to clean and functional user interfaces.
+
+Currently focused on **Laravel 12 system development**, structured architecture,  
+and building digital platforms with real-world impact.
+
+🎯 Interested in secure systems, management platforms, and public-sector technology.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-### Backend
-PHP • Laravel 12 • MySQL  
+**Backend**  
+Laravel 12 • PHP • MySQL  
 
-### Frontend
+**Frontend**  
 HTML • CSS • JavaScript • Bootstrap  
 
-### Tools
-Git • GitHub • VS Code • XAMPP • Laragon  
+**Workflow**  
+Git • GitHub • VS Code  
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Highlight Projects
 
-### 📸 Camera Rental Management System (Laravel 12)
-Full-featured rental management system:
-- Camera & product management  
-- Booking with rental duration calculation  
-- Transaction recording  
+### 📸 Camera Rental Management System
+End-to-end rental platform with:
+- Booking duration logic  
+- Authentication & role management  
 - Admin dashboard  
-- Authentication & role-based access  
+- Transaction tracking  
 
-Built using clean MVC architecture and structured database design.
+Built with structured MVC architecture and optimized database schema.
 
 ---
 
-### 🗳️ OSIS E-Voting System (Laravel 12)
-Secure digital voting platform:
-- User authentication  
-- One-student-one-vote validation  
+### 🗳️ OSIS E-Voting System
+Secure digital voting platform featuring:
+- One-user-one-vote validation  
 - Real-time vote counting  
-- Admin monitoring dashboard  
-- Data integrity & transparency focus  
+- Admin result monitoring  
+- Data integrity protection  
 
-Designed with system reliability and fairness in mind.
-
----
-
-### ♻️ Bank Sampah Orbit Management System
-Waste transaction & customer data management system with reporting features.
+Designed for transparency and reliability.
 
 ---
 
-### 🛒 Digital Cashier System
-Sales recording system with transaction tracking and management.
+### ♻️ Bank Sampah Orbit
+Management system handling customer data, waste transactions, and reporting automation.
 
 ---
 
-### 💻 Fandiora Store Website
-Product catalog website with ordering functionality.
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-Instagram: https://instagram.com/isrnaswa  
-Email: reykanaswa24@gmail.com  
+### "Fortuna Mea Rego"
+I shape my own destiny.
 
----
-
-> "Fortuna Mea Rego"  
-> I shape my own destiny.
+</div>
