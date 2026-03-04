@@ -1,79 +1,109 @@
-# 👋 SUP ! I'm **ISRA NASWA REYKA SWAHILI**
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+space;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+the+future%2C+one+line+at+a+time)
-
-</div>
-
-## 🚀 About Me
-+ 🎓 Mahasiswi Teknik Informatika
-+ 💻 Web Developer Newbie
-+ 🌱 Saat ini sedang belajar Laravel
-+ 🚀 Soon to be part IT Department of the Indonesian National Police
-
-
-## 💻 Tech Stack
-## An enthusiastic beginner eager to grow and learn in the world of web development and technology.
-  
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ISRA%20NASWA%20REYKA%20SWAHILI&fontSize=32&fontColor=fff&fontAlignY=38&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16" />
 
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-
-</div>
-
-## 🎯 Current Projects
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|----------------|---------------|
-| 🛒 **Sistem Menu Kasir Sederhana** | Aplikasi kasir sederhana untuk pencatatan transaksi penjualan secara digital. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-| 💻 **Fandiora Store Website** | Website toko elektronik yang menampilkan katalog produk, deskripsi, dan fitur pemesanan daring. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🌸 **Website Bunga Mekar** | Website bertema florikultura | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| 🎉 **Website Ucapan Selamat Ulang Tahun** | Website interaktif untuk mengirim ucapan selamat ulang tahun dengan animasi dan tampilan visual menarik. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ♻️ **Website Pengelolaan Bank Sampah Orbit** | Website untuk pengelolaan data nasabah, transaksi sampah, serta laporan kegiatan Bank Sampah Orbit. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-</div>
-
-
-## 🌟 Quote of the Day
-
-<div align="center">
-  
-  <h3><em>"FORTUNA MEA REGO"</em></h3>
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isrnaswa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reykanaswa24@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+MySQL+%7C+Bootstrap;Aspiring+IT+%E2%80%94+Indonesian+National+Police+%F0%9F%91%AE)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  <sub>💙 Made with love peace and pesenkopi's creamy milk coffee ☕</sub>
+```
+╔══════════════════════════════════════╗
+║         SYSTEM INITIALIZED           ║
+║    > Loading Profile: isranaswa      ║
+║    > Status: ONLINE ●                ║
+╚══════════════════════════════════════╝
+```
 
+</div>
+
+## ◈ ABOUT ME
+```yaml
+name      : Isra Naswa Reyka Swahili
+role      : Web Developer Newbie
+university: Universitas Islam Blitar
+major     : Teknik Informatika
+status    : Learning Laravel & Full Stack Dev
+mission   : Soon to be part IT — Indonesian National Police 👮
+motto     : "FORTUNA MEA REGO"
+```
+
+---
+
+## ◈ TECH STACK
+
+<div align="center">
+
+**[ FRONTEND ]**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**[ BACKEND ]**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**[ TOOLS ]**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
+
+</div>
+
+---
+
+## ◈ PROJECTS
+
+<div align="center">
+
+| ◈ | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🗳️ | **E-Voting OSIS** | Sistem pemilihan Ketua OSIS berbasis web dengan dashboard real-time, grafik suara, dan manajemen siswa | `Laravel` `MySQL` |
+| 📷 | **Sewa Kamera** | Platform penyewaan kamera online dengan sistem booking, manajemen stok, dan laporan transaksi | `Laravel` `MySQL` |
+| ♻️ | **Bank Sampah Orbit** | Pengelolaan data nasabah, transaksi sampah, serta laporan kegiatan bank sampah | `Laravel` `MySQL` |
+| 🛒 | **Sistem Kasir** | Aplikasi kasir digital untuk pencatatan transaksi penjualan secara digital | `Laravel` `PHP` |
+| 💻 | **Fandiora Store** | Website toko elektronik dengan katalog produk dan fitur pemesanan daring | `Bootstrap` `PHP` `MySQL` |
+| 🌸 | **Bunga Mekar** | Website bertema florikultura dengan tampilan visual menarik | `HTML` `CSS` `JS` |
+| 🎉 | **Birthday Wishes** | Website ucapan ulang tahun interaktif dengan animasi | `HTML` `CSS` `JS` |
+
+</div>
+
+---
+
+## ◈ GITHUB STATS
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=isranaswa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isranaswa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9)
+
+</div>
+
+---
+
+## ◈ CONNECT
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/isrnaswa)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reykanaswa24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isranaswa)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+<div align="center">
+<sub>💙 made with love, peace, and pesenkopi's creamy milk coffee ☕</sub>
 </div>
